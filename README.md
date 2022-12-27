@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GabenKhan1
+- 👋 Hi, I’m @ImranAram Khan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me imranmrkhan5@gmail.com
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImranAram Khan
+- 👋 Hi, I’m @Imran Aram Khan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on flutter projects
